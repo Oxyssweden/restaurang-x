@@ -298,6 +298,7 @@ p a {
 .restaurant-links {
     width: 100%;
     margin-top: 40px;
+
 }
 
 .restaurant-links > a {
@@ -314,8 +315,11 @@ p a {
     letter-spacing: 1px;
     width: 96%;
     margin: 2%;
-    padding: 20px;
+
     transition: background 0.3s;
+    height: 60px;
+    line-height: 60px;
+
 }
 
 .restaurant-links > a:hover {
@@ -323,12 +327,17 @@ p a {
     transition: background 0.3s;
 }
 
+.restaurant-links .smaller {
+    font-size: 1.2em;
+}
+
+
 @media only screen and (min-width: 768px) {
     .restaurant-links > a {
         font-size: 1.5em;
         width: 46%;
         margin: 2%;
-        padding: 10px;
+
     }
 }
 
