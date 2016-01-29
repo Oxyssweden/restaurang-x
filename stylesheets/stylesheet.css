@@ -27,6 +27,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+* {
+    box-sizing: border-box;
+}
 body {
 	line-height: 1;
 }
@@ -48,7 +51,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Droid Serif', serif;
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
@@ -69,11 +72,11 @@ header {
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color: #303030;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 
 header h2 {
@@ -86,7 +89,6 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
@@ -258,6 +260,12 @@ h3 {
   color: #d5000d;
 }
 
+h2.menu-headline {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+
 h4 {
   font-size: 16px;
   font-weight: bold;
@@ -285,6 +293,96 @@ a {
 
 p a {
   font-weight: 400;
+}
+
+.restaurant-links {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.restaurant-links > a {
+    float: left;
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: black;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    width: 96%;
+    margin: 2%;
+    padding: 20px;
+    transition: background 0.3s;
+}
+
+.restaurant-links > a:hover {
+    background: #dd9900;
+    transition: background 0.3s;
+}
+
+@media only screen and (min-width: 768px) {
+    .restaurant-links > a {
+        font-size: 1.5em;
+        width: 46%;
+        margin: 2%;
+        padding: 10px;
+    }
+}
+
+.opening-hours {
+    color: #dd9900;
+}
+
+.dish {
+    display: inline-block;
+    border-top: 1px solid #ccc;
+    width: 100%;
+    padding-top: 15px;
+    margin-top: 10px;
+}
+
+.dish:last-child {
+    margin-bottom: 40px;
+}
+
+.dish-name ul {
+    padding: 0;
+    margin: 0;
+}
+
+.dish-name ul li {
+    line-height: 1.3em;
+    margin-bottom: 5px;
+}
+
+.dish-name ul li:last-child {
+    margin-bottom: 0;
+}
+
+.dish:first-child {
+    border-top: none;
+}
+
+.dish-date {
+    float: left;
+    width: 20%;
+    margin-right: 5%;
+    font-size: 0.85em;
+}
+
+.dish-name {
+    float: left;
+    width: 70%;
+    display: inline-block;
+    font-size: 0.85em;
+}
+
+.salad {
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
 
 blockquote {
@@ -315,15 +413,23 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #aaa;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+
 }
 
 footer a {
-  color: #666;
+  font-weight: 700;
+    text-decoration: underline;
+
 }
 footer a:hover {
-  color: #444;
+  color: #222;
+}
+
+.address, .contact {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 30px;
 }
 
 /* MISC */
