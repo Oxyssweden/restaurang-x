@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="435c93a3-be05-4ae5-b0e8-7cadbe3448d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bla.html" afterPath="$PROJECT_DIR$/bla.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esset.html" afterPath="$PROJECT_DIR$/esset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pulsen.html" afterPath="$PROJECT_DIR$/pulsen.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regnbagen.html" afterPath="$PROJECT_DIR$/regnbagen.html" />
     </list>
     <ignored path="restaurang-x.iws" />
@@ -31,8 +34,8 @@
       <file leaf-file-name="bla.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bla.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-97.42308" vertical-offset="0" max-vertical-offset="3213">
-              <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="24" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3230">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -41,18 +44,18 @@
       <file leaf-file-name="pulsen.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pulsen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1834" max-vertical-offset="3179">
-              <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3230">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="esset.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="esset.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/esset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.544" vertical-offset="51" max-vertical-offset="3077">
-              <caret line="26" column="125" selection-start-line="26" selection-start-column="125" selection-end-line="26" selection-end-column="125" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3094">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -61,8 +64,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.192307" vertical-offset="66" max-vertical-offset="833">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="850">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -78,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="regnbagen.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="regnbagen.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regnbagen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="304" max-vertical-offset="1088">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.11333334" vertical-offset="0" max-vertical-offset="1105">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -108,13 +111,13 @@
       <list>
         <option value="$PROJECT_DIR$/restaurang-bla/index.html" />
         <option value="$PROJECT_DIR$/restaurang-esset/index.html" />
-        <option value="$PROJECT_DIR$/pulsen.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/bla.html" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
+        <option value="$PROJECT_DIR$/esset.html" />
+        <option value="$PROJECT_DIR$/pulsen.html" />
+        <option value="$PROJECT_DIR$/bla.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/regnbagen.html" />
-        <option value="$PROJECT_DIR$/esset.html" />
       </list>
     </option>
   </component>
@@ -328,26 +331,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pulsen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1834" max-vertical-offset="3179">
-          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bla.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-97.42308" vertical-offset="0" max-vertical-offset="3213">
-          <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -360,26 +347,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/esset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3094">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pulsen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3230">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bla.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="3230">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.192307" vertical-offset="66" max-vertical-offset="833">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="850">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regnbagen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="304" max-vertical-offset="1088">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.544" vertical-offset="51" max-vertical-offset="3077">
-          <caret line="26" column="125" selection-start-line="26" selection-start-column="125" selection-end-line="26" selection-end-column="125" />
+        <state vertical-scroll-proportion="0.11333334" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
           <folding />
         </state>
       </provider>
