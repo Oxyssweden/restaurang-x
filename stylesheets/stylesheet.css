@@ -315,11 +315,15 @@ p a {
     letter-spacing: 1px;
     width: 96%;
     margin: 2%;
-
     transition: background 0.3s;
-    height: 60px;
-    line-height: 60px;
+    height: 80px;
+    line-height: 55px;
+}
 
+.restaurant-links > a div {
+    text-align: center;
+    margin-top: -25px;
+    font-size: 16px;
 }
 
 .restaurant-links > a:hover {
